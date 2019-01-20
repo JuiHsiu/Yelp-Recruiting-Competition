@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Data Mining final project: Support Vector Regressor
+Data Mining final project: Support Vector Regression
 
 @author: Jui-Hsiu, Hsu
 """
