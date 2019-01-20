@@ -48,7 +48,7 @@ $ tree
 6 directories, 26 files
 ```
 ### Data Preprocessing
-> After downloading the data, run:
+> After downloading the dataset, run:
 ```Shell
 $ python3 data_preprocessing.py
 ```
